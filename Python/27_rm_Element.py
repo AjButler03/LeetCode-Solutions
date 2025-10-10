@@ -1,3 +1,4 @@
+# 10/09/2025
 # This question is probably harder in other lanuguages; Python kinda makes it stupid simple.
 def removeElement(self, nums, val):
         """
